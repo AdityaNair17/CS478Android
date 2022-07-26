@@ -1,0 +1,4 @@
+#Fri Apr 29 12:40:57 CDT 2022
+base.0=C\:\\Users\\anair45\\AndroidStudioProjects\\AdityaPrakashNair_MovieCentral\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex

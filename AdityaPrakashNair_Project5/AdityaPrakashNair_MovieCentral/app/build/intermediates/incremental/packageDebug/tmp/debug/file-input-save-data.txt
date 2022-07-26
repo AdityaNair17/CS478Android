@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Apr 28 20:11:11 CDT 2022
+0.base=C\:\\Users\\anair45\\AndroidStudioProjects\\AdityaPrakashNair_MovieCentral\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

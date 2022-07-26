@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+permission#course.examples.Services.MovieService.GEN_ID
+ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:7:5-9:18
+	android:protectionLevel
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:7:17-76
+application
+ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:11:5-24:19
+	android:icon
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:12:9-36
+service#course.examples.Services.MovieService.MovieServiceImpl
+ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:15:9-23:19
+	android:label
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:16:13-45
+	android:exported
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:18:13-36
+	android:permission
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:19:13-78
+	android:name
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:17:13-82
+intent-filter#action:name:course.examples.Services.MovieCommon.MovieGenerator
+ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:20:13-22:29
+action#course.examples.Services.MovieCommon.MovieGenerator
+ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:21:17-94
+	android:name
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml:21:25-91
+uses-sdk
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anair45\AndroidStudioProjects\AdityaPrakashNair_MovieCentral\app\src\main\AndroidManifest.xml
